@@ -9,7 +9,7 @@ You can download the archives for Windows, Linux and MacOS from the following li
 
 Windows:
 
-    https://github.com/QRAX-LABS/Binaries/releases/download/1.4.4/qrax-1.4.4-win64-setup-unsigned.exe (Installer)
+https://github.com/QRAX-LABS/Binaries/releases/download/1.4.4/qrax-1.4.4-win64-setup-unsigned.exe (Installer)
     https://github.com/QRAX-LABS/Binaries/releases/download/1.4.4/qrax-1.4.4-win64.zip (ZIP)
 
 
