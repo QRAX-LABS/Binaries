@@ -2,7 +2,7 @@
 
 QRAX Core Wallets Repository
 ======
-***************
+
 Download wallets
 ---
 You can download the archives for Windows, Linux and MacOS from the following links:
