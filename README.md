@@ -9,27 +9,27 @@ You can download the archives for Windows, Linux and MacOS from the following li
 
 Windows:
 
-https://github.com/QRAX-LABS/Binaries/releases/download/1.6.0/qrax-1.6.0-win64-setup-unsigned.exe (Installer)
+https://github.com/QRAX-LABS/Binaries/releases/download/1.6.1/qrax-1.6.1-win64-setup-unsigned.exe (Installer)
 
-https://github.com/QRAX-LABS/Binaries/releases/download/1.6.0/qrax-1.6.0-win64.zip (ZIP)
+https://github.com/QRAX-LABS/Binaries/releases/download/1.6.1/qrax-1.6.1-win64.zip (ZIP)
 
 
 Linux:
 
-https://github.com/QRAX-LABS/Binaries/releases/download/1.6.0/qrax-1.6.0-arm-linux-gnueabihf.tar.gz (ARM 32bit)
+https://github.com/QRAX-LABS/Binaries/releases/download/1.6.1/qrax-1.6.1-arm-linux-gnueabihf.tar.gz (ARM 32bit)
 
-https://github.com/QRAX-LABS/Binaries/releases/download/1.6.0/qrax-1.6.0-aarch64-linux-gnu.tar.gz (ARM 64bit) 
+https://github.com/QRAX-LABS/Binaries/releases/download/1.6.1/qrax-1.6.1-aarch64-linux-gnu.tar.gz (ARM 64bit) 
 
-https://github.com/QRAX-LABS/Binaries/releases/download/1.6.0/qrax-1.6.0-i686-pc-linux-gnu.tar.gz (x86)
+https://github.com/QRAX-LABS/Binaries/releases/download/1.6.1/qrax-1.6.1-i686-pc-linux-gnu.tar.gz (x86)
 
-https://github.com/QRAX-LABS/Binaries/releases/download/1.6.0/qrax-1.6.0-x86_64-linux-gnu.tar.gz (x64)
+https://github.com/QRAX-LABS/Binaries/releases/download/1.6.1/qrax-1.6.1-x86_64-linux-gnu.tar.gz (x64)
 
 
 MacOS:
 
-https://github.com/QRAX-LABS/Binaries/releases/download/1.6.0/qrax-1.6.0-osx-unsigned.dmg (Installer)
+https://github.com/QRAX-LABS/Binaries/releases/download/1.6.1/qrax-1.6.1-osx-unsigned.dmg (Installer)
 
-https://github.com/QRAX-LABS/Binaries/releases/download/1.6.0/qrax-1.6.0-osx64.tar.gz (Tarball)
+https://github.com/QRAX-LABS/Binaries/releases/download/1.6.1/qrax-1.6.1-osx64.tar.gz (Tarball)
 
 
 
