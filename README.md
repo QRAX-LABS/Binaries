@@ -55,7 +55,7 @@ Scripts for installing a wallet on a linux server:
 
 download install-linux-daemon.sh and run with the command: ./install-linux-daemon.sh
 
-uninstall-linix-daemon.sh script to remove files and services, while saving wallet.dat backup
+uninstall-linux-daemon.sh script to remove files and services, while saving wallet.dat backup
 
 License
 ---
