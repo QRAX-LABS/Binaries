@@ -1,6 +1,6 @@
 #!/bin/bash
 
-URL='https://github.com/QRAX-LABS/Binaries/releases/download/2.0.1/qrax-2.0.1-x86_64-linux-gnu.tar.gz'
+URL='https://github.com/QRAX-LABS/Binaries/releases/download/2.5.0/qrax-2.5.0-x86_64-linux-gnu.tar.gz'
 NAME="$(basename ${URL})"
 
 cd ~
